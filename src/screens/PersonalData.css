@@ -1,0 +1,23 @@
+.personal-data {
+  width: 99.8%;
+  height: 100%;
+  border: 4px solid #ff7f00;
+}
+
+.personal-data__content {
+  max-width: 600px;
+  width: 100%;
+  margin: 50px auto;
+}
+
+.form-group {
+  margin: 50px auto !important;
+}
+
+.required__star {
+  color: red;
+}
+
+h4{
+  color: blue;
+}

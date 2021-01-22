@@ -1,0 +1,19 @@
+.page2 {
+  width: 100%;
+  height: 100%;
+  border: 4px solid #ff7f00;
+}
+
+.page2__content {
+  max-width: 1200px;
+  width: 100%;
+  margin: 50px auto;
+}
+
+.title {
+  margin: 20px auto;
+}
+
+.page2__button {
+  margin-top: 40px;
+}

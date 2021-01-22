@@ -1,0 +1,35 @@
+.report__personal-data__title {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.report__personal-data {
+  max-width: 80%;
+  width: 100%;
+  margin: 20px auto;
+  padding: 20px;
+  border: 4px solid #ff7f00;
+}
+
+.report__feedback {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  border: 4px solid #ff7f00;
+}
+
+.report__feedback__title {
+  margin: 10px auto;
+}
+
+.report__feedback__content {
+  padding: 20px;
+}
+
+.feedback__item {
+  display: flex;
+  flex-direction: column;
+  margin: 40px 0;
+}
