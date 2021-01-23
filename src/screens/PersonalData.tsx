@@ -61,6 +61,7 @@ const PersonalData: React.FC = () => {
         const data: any = await axios.get(
           "https://restcountries.eu/rest/v2/all"
         );
+        setGender("Not Specified");
         setCountryArr(data.data);
       } catch (error) {
         console.log(error);
